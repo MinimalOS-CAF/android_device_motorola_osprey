@@ -1,0 +1,15 @@
+[
+  {
+    "remote": "github",
+    "repository":  "moto8916/android_kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916",
+    "revision": "cm-13.0"
+  },
+  
+  {
+    "remote": "github",
+    "repository":  "moto8916/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "revision": "cm-13.0_msm8916"
+  }
+]
